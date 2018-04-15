@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045136927949",
+    "firebase_url": "https://firstfirebasedemo-d139a.firebaseio.com",
+    "project_id": "firstfirebasedemo-d139a",
+    "storage_bucket": "firstfirebasedemo-d139a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045136927949:android:7234e2783ce56ecb",
+        "android_client_info": {
+          "package_name": "com.example.bijay.firebaseuseremialauthverifydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045136927949-j77i64stboqibbjapbqhsj59si4rtq9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5CWdkoHI98V-oL2MX6i3DpCx5R0GmgqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
